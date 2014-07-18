@@ -16,4 +16,8 @@ Option2
  * Library required: Metadata Extractor version 2.6.4
  * 		   Download: https://code.google.com/p/metadata-extractor/downloads/detail?name=metadata-extractor-2.6.4-src.jar
  * 		   		 	 https://code.google.com/p/metadata-extractor/downloads/detail?name=metadata-extractor-2.6.4.zip
+ * Files required: "findingdory.jpg"
+ *                 "22jumpstreet.jpg"
+ *                 "thegiver.jpg"
+ *                 "guardiansofthegalaxy.jpg"
 */
